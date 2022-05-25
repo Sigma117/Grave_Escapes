@@ -68,6 +68,8 @@ Below will be listed the goals of the application related to game actions and an
 # Link Download
 [Grave_Escapes](https://drive.google.com/file/d/1ulgLNn9-PHHBoLnYupATnG3ExfwcJV1y/view?usp=drivesdk)
 
+If you use our code please mention us.
+
 ## Bibliography
 the following sites were used for the acquisition of images, music textures and sound effects:
 * [Character spritesheets](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator).
