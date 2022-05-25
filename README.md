@@ -1,5 +1,6 @@
 # Grave_Escapes
 2D game made by java
+![Grave_escape_gif1](https://user-images.githubusercontent.com/71655239/170218422-dc830aa8-b567-477c-b858-1332920c940d.gif)
 
 ## Introduction:
 
