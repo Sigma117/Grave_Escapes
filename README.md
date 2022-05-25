@@ -47,6 +47,10 @@ below will be listed the goals of the application related to game actions and an
 
 * add NPCs and dialogues
 
+## Some Images
+<img width="1196" alt="Schermata 2022-05-25 alle 09 14 21" src="https://user-images.githubusercontent.com/71655239/170209582-3bf9ce1b-c88a-4e52-a8ae-5957336be079.png">
+
+
 ## Bibliography
 the following sites were used for the acquisition of images, music textures and sound effects:
 * [Character spritesheets](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator).
