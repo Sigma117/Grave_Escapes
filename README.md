@@ -1,11 +1,6 @@
 # Grave_Escapes
 2D game made by java
 
-
-https://user-images.githubusercontent.com/71655239/170209836-d8e7aa6a-fc67-47d9-b33a-0209592531a0.mov
-
-
-
 ## Introduction:
 
 Grave_Escape is a simple 2D Java Game, this is an university project in collaboration with [Giovanni Lopopolo](https://github.com/giovannilopopolo98).               
