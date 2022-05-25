@@ -1,13 +1,14 @@
 # Grave_Escapes
 2D game made by java
-<img src="https://user-images.githubusercontent.com/71399341/168267017-f6c311c5-8651-40be-a375-39e953c5c08e.png"> 
+<img width="1194" alt="Schermata 2022-05-25 alle 09 12 38" src="https://user-images.githubusercontent.com/71655239/170206994-15e3ed80-b3ae-4855-b92d-0b36fe43f920.png">
+
 
 ## Introduction:
 
-Tower of chaos ( T.O.C.) is a simple 2D Java Game, this is an university project in collaboration with [Alessandra Donnini](https://github.com/aled99-pixel).                 
+Tower of chaos ( T.O.C.) is a simple 2D Java Game, this is an university project in collaboration with [Giovanni Lopopolo]([https://github.com/aled99-pixel](https://github.com/giovannilopopolo98)).                 
 This game is programmed in Java only and using the multi-language integrated development environment Netbeans.
 
-## The Application "Thower of Chaos":
+## The Application "Grave_Escapes":
 The Tower of Chaos application aims to provide an interface that through a graphic representation of a map causes the player to enter the tower.
 the player's goal is to complete the tower by facing all the enemies that are on each floor.
 Initially the user will be in front of the menu interface in which you will be able to select one of the following items:
