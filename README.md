@@ -48,8 +48,8 @@ below will be listed the goals of the application related to game actions and an
 * add NPCs and dialogues
 
 ## Some GIF
-
-![Grave_escape_gif3](https://user-images.githubusercontent.com/71655239/170221053-1208a77c-843f-4184-b954-e51aa9a2c1a5.gif)
+### Enemy Following
+![Grave_escape_gif3](https://user-images.githubusercontent.com/71655239/170221053-1208a77c-843f-4184-b954-e51aa9a2c1a5.gif) 
 
 ![Grave_escape_gif1](https://user-images.githubusercontent.com/71655239/170220072-e081cdd6-93af-4142-a60c-c0dbd26d659e.gif)
 
