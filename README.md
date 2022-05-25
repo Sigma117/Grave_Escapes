@@ -1,6 +1,9 @@
 # Grave_Escapes
 2D game made by java
-<img width="1194" alt="Schermata 2022-05-25 alle 09 12 38" src="https://user-images.githubusercontent.com/71655239/170206994-15e3ed80-b3ae-4855-b92d-0b36fe43f920.png">
+
+
+https://user-images.githubusercontent.com/71655239/170209836-d8e7aa6a-fc67-47d9-b33a-0209592531a0.mov
+
 
 
 ## Introduction:
@@ -48,6 +51,8 @@ below will be listed the goals of the application related to game actions and an
 * add NPCs and dialogues
 
 ## Some Images
+<img width="1194" alt="Schermata 2022-05-25 alle 09 12 38" src="https://user-images.githubusercontent.com/71655239/170209805-037aec2c-55e0-4866-95bb-7b99f0bf742f.png">
+
 <img width="1196" alt="Schermata 2022-05-25 alle 09 14 21" src="https://user-images.githubusercontent.com/71655239/170209582-3bf9ce1b-c88a-4e52-a8ae-5957336be079.png">
 
 
