@@ -51,19 +51,11 @@ below will be listed the goals of the application related to game actions and an
 
 ![Grave_escape_gif3](https://user-images.githubusercontent.com/71655239/170221053-1208a77c-843f-4184-b954-e51aa9a2c1a5.gif)
 
-
-
 ![Grave_escape_gif1](https://user-images.githubusercontent.com/71655239/170220072-e081cdd6-93af-4142-a60c-c0dbd26d659e.gif)
-
-
 
 ![Grave_escape_gif2](https://user-images.githubusercontent.com/71655239/170220080-e3457507-3dc4-43f1-9635-5e08db4f89a8.gif)
 
-
-
 ![Grave_escape_gif4](https://user-images.githubusercontent.com/71655239/170221061-048fd40c-31d0-4742-9f76-66f44acf6928.gif)
-
-<img width="1196" alt="Schermata 2022-05-25 alle 09 14 21" src="https://user-images.githubusercontent.com/71655239/170209582-3bf9ce1b-c88a-4e52-a8ae-5957336be079.png">
 
 
 ## Bibliography
