@@ -1,8 +1,8 @@
 # Grave_Escapes
 2D game made by java
 
-![Grave_escape_gif1](https://user-images.githubusercontent.com/71655239/170219217-1b0a0ed6-d9d4-4a3d-ac60-2e1150e5baa9.gif)(500x200)
-![Grave_escape_gif2](https://user-images.githubusercontent.com/71655239/170219249-07e0d54e-797e-4b04-936e-9273ede79593.gif)
+![Grave_escape_gif3](https://user-images.githubusercontent.com/71655239/170219636-86e0771c-c371-4dc0-867b-c3535bb2c004.gif)
+
 
 
 ## Introduction:
