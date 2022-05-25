@@ -26,19 +26,23 @@ The player will be able to move freely on the game map using the following comma
 
 ## Achieved Goals:
 
-below will be listed the goals of the application related to game actions and animations:
+Below will be listed the goals of the application related to game actions and animations:
 
-* the movement and actions of the character must be done through smooth animation.
+* The movement and actions of the character must be done through smooth animation.
 
-* the user must be able to access the next tower level through a door only if the enemies of that level have all been defeated.
+* The user must be able to access the next level through a door only if the enemies of that level have all been defeated.
 
 * The movement and actions of all NPCs (Non-Player Character) and enemies must be done via smooth animation.
 
-* there must be a camera with focus on the player character.
+* There must be a camera with focus on the player character.
 
-* the user cannot exceed the map limits during the game.
+* The user cannot exceed the map limits during the game.
 
 * Presence of game music and sounds.
+
+* Enemy following sistem
+
+* Interction whit environment
 
 ## Future Goals:
 * Expand the number of levels (adding more floors to the tower).
@@ -54,7 +58,7 @@ below will be listed the goals of the application related to game actions and an
 ### Killing Enemy
 ![Grave_escape_gif1](https://user-images.githubusercontent.com/71655239/170220072-e081cdd6-93af-4142-a60c-c0dbd26d659e.gif)
 
-### Envarioment interaction
+### Environment interaction
 ![Grave_escape_gif2](https://user-images.githubusercontent.com/71655239/170220080-e3457507-3dc4-43f1-9635-5e08db4f89a8.gif)
 
 ### Swiching level
