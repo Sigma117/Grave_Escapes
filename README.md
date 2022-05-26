@@ -9,14 +9,13 @@ Grave_Escape is a simple 2D Java Game, done for an university project in collabo
 This game is programmed in Java only, using the multi-language integrated development environment Netbeans.
 
 ## The Application "Grave_Escapes":
-Grave_Escape application aims to provide an interface that through a graphic representation of a map causes the player to enter the tower.
-the player's goal is to complete the tower by facing all the enemies that are on each floor.
-Initially the user will be in front of the menu interface in which you will be able to select one of the following items:
- * Play: pressing this button the user is redirected to the games.
- * Exit: pressing this button exits the game, then the window it closes automatically.
+When entering the Grave_Escape game, the player is able to move freely its character in a map and its goal is to kill all the enemies in order be able to reach a portal and pass to the next level.
+Initially the user will be in front of a menu interface in which he/she will be able to select one of the following items:
+ * Play: pressing this button the user is redirected to the game.
+ * Exit: pressing this button the user exits the game, then the window closes automatically.
 <img width="1192" alt="Schermata 2022-05-25 alle 09 15 30 - Copia" src="https://user-images.githubusercontent.com/71655239/170209331-bf967bf7-a259-48df-aee6-ef778eeac0c4.png">
 
-The player will be able to move freely on the game map using the following commands:
+The player is be able to move freely on the game map using the following commands:
  * W = up;
  * S = down;
  * A = left;
@@ -30,7 +29,7 @@ Below will be listed the goals of the application related to game actions and an
 
 * The movement and actions of the character must be done through smooth animation.
 
-* The user must be able to access the next level through a door only if the enemies of that level have all been defeated.
+* The user must be able to access the next level through a portal only if the enemies of that level have all been defeated.
 
 * The movement and actions of all NPCs (Non-Player Character) and enemies must be done via smooth animation.
 
@@ -45,11 +44,11 @@ Below will be listed the goals of the application related to game actions and an
 * Interction whit environment
 
 ## Future Goals:
-* Expand the number of levels (adding more floors to the tower).
+* Expand the number of levels (adding more maps).
 
-* Add levels with boss enemies
+* Add levels with boss enemies.
 
-* add NPCs and dialogues
+* add NPCs and dialogues.
 
 ## Some GIF
 ### Enemy following
