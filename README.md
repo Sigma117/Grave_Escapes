@@ -1,12 +1,12 @@
 # Grave_Escapes
-2D game made by java
+2D game made with Java
 
 <img width="1194" alt="Schermata 2022-05-25 alle 09 12 38" src="https://user-images.githubusercontent.com/71655239/170209805-037aec2c-55e0-4866-95bb-7b99f0bf742f.png">
 
 ## Introduction:
 
-Grave_Escape is a simple 2D Java Game, this is an university project in collaboration with [Giovanni Lopopolo](https://github.com/giovannilopopolo98).               
-This game is programmed in Java only and using the multi-language integrated development environment Netbeans.
+Grave_Escape is a simple 2D Java Game, done for an university project in collaboration with [Giovanni Lopopolo](https://github.com/giovannilopopolo98).               
+This game is programmed in Java only, using the multi-language integrated development environment Netbeans.
 
 ## The Application "Grave_Escapes":
 Grave_Escape application aims to provide an interface that through a graphic representation of a map causes the player to enter the tower.
