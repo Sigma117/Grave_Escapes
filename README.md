@@ -50,7 +50,7 @@ Below will be listed the goals of the application related to game actions and an
 
 * add NPCs and dialogues.
 
-## Some GIF
+## Some GIFs
 ### Enemy following
 ![Grave_escape_gif3](https://user-images.githubusercontent.com/71655239/170221053-1208a77c-843f-4184-b954-e51aa9a2c1a5.gif) 
 
