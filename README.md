@@ -10,7 +10,7 @@ This game is programmed in Java only, using the multi-language integrated develo
 
 ## The Application "Grave_Escapes":
 When entering the Grave_Escape game, the player is able to move freely its character in a map and its goal is to kill all the enemies in order be able to reach a portal and pass to the next level.
-Initially the user will be in front of a menu interface in which he/she will be able to select one of the following items:
+Initially the user will be in front of a menu interface in which he/she can to select one of the following items:
  * Play: pressing this button the user is redirected to the game.
  * Exit: pressing this button the user exits the game, then the window closes automatically.
 <img width="1192" alt="Schermata 2022-05-25 alle 09 15 30 - Copia" src="https://user-images.githubusercontent.com/71655239/170209331-bf967bf7-a259-48df-aee6-ef778eeac0c4.png">
